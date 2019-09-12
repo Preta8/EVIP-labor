@@ -4,9 +4,9 @@ Erről a repositoryról készülnek a hallgatói személyes másolatok a classro
 A repository private, a tárgy oktatóin kívül más nem láthatja.
 Az egyértelmű azonosíthatóság érdekében kérünk, add meg az alábbiakat:
 
-## NÉV: Keskeny Petra
-## Neptun-kód: DLZJNH
-## Kurzus: L1
+## NÉV: 
+## Neptun-kód: 
+## Kurzus: 
 
 # Hasznos linkek 
 
