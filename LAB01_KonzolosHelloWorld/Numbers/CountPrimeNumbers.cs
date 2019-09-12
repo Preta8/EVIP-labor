@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Numbers
 {
-    publiv class CountPrimeNumbers : SolutionProviderBase
+    public class CountPrimeNumbers : SolutionProviderBase
     {
         private int upperLimit;
 
